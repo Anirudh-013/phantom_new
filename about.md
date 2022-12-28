@@ -13,7 +13,7 @@ There should be whitespace between paragraphs.
 
 # Project 1
 
-Fraud_Deatection
+Fraud_Detection
 
 ## Project 2 
 
