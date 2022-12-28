@@ -18,9 +18,9 @@ email: 'anirudhbenguluri@gmail.com'
 description: "I'm a ML/AI learner looking for intresting projects"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Anirudh-013.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
+twitter_username: 'AnirudhBengulu1'
 github_username: 'Anirudh-013'
-linkedin_username: 'https://www.linkedin.com/in/anirudh-benguluri/'
+linkedin_username: 'linkedin.com/in/anirudh-benguluri/'
 
 # Build settings
 markdown: kramdown
